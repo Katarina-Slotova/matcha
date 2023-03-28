@@ -1,4 +1,4 @@
-# Matcha
+# Matcha 🔥
 
 _Matcha_ is a full-stack dating app made with ReactJS, Redux, Node.js, Express.js, PostgreSQL & Tailwind CSS. It was the second project of web branch at Hive Helsinki, done as a group project with two schoolmates of mine - [Juho Kangas](https://github.com/JuhoKangas) and [Alba Castaño](https://github.com/acastanome). We didn't have previous experience with the mentioned stack and we learned everything by doing. Building this app took us two months, during which we not only improved our coding skills, but also our teamwork skills, prioritizing tasks and organizing work efficiently to meet a set deadline. <br />
 
