@@ -13,7 +13,7 @@ _This project introduces you to a more advanced tool for creating your web appli
 - Security / Data validation
 
 ## Skills
-- Security
+- Security (SQL injection & XSS attack prevention)
 - DB & Data
 - Web
 
