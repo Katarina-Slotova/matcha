@@ -63,11 +63,11 @@ The user is notified in real time of the following events:
 `PORT=3001
 EMAIL_PASSWORD (admin's email's password)
 EMAIL_ADDRESS (admin's email)
-
 PGUSER 
 PGHOST=localhost
 PGPASSWORD
 PGDATABASE
 PGPORT=5432
 SECRET`
+
 5. Run `npm run dev` on server side to start server and `npm start` on client side to start front-end of the application.
