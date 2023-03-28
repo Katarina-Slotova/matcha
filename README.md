@@ -60,14 +60,14 @@ The user is notified in real time of the following events:
 2. React runs on port 3000, Node runs on port 3001.
 3. Run `npm i` on both client-side and server-side in order to install all the necessary dependencies.
 4. You will also need to create an env file on the server-side with structure like this: 
-`PORT=3001
-EMAIL_PASSWORD (admin's email's password)
-EMAIL_ADDRESS (admin's email)
-PGUSER 
-PGHOST=localhost
-PGPASSWORD
-PGDATABASE
-PGPORT=5432
-SECRET`
+`PORT=3001\n
+EMAIL_PASSWORD (admin's email's password)\n
+EMAIL_ADDRESS (admin's email)\n
+PGUSER\n
+PGHOST=localhost\n
+PGPASSWORD\n
+PGDATABASE\n
+PGPORT=5432\n
+SECRET`\n
 
 5. Run `npm run dev` on server side to start server and `npm start` on client side to start front-end of the application.
