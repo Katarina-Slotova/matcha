@@ -30,8 +30,12 @@ _This project introduces you to a more advanced tool for creating your web appli
 - IP Geolocation
 
 ## What can you do on Matcha?
+[Screen Shot 2023-04-03 at 3.25.14 PM.zip](https://github.com/Katarina-Slotova/matcha/files/11138505/Screen.Shot.2023-04-03.at.3.25.14.PM.zip)
+
 ### Registration and Signing-in
 User can register providing an email address, a username, a last name, a first name and a password that is encrypted in the database. After the registration, an e-mail with an unique link is sent to the registered user to verify their account. The user can then connect with their username and password. They can request password reinitialization if they forget it via a unique link sent in an email to them.
+
+<img width="530" alt="Screen Shot 2023-04-03 at 3 25 29 PM" src="https://user-images.githubusercontent.com/66918113/229517897-c4dc0832-13e5-4925-9add-d2e91608f889.png">
 
 ### User profile
 Once connected, a user fills their profile, adding their gender, sexual preferences, bio, list of their interests, profile picture and optionally 4 other pictures. User can modify their own information. 
