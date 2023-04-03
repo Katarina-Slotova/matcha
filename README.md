@@ -35,6 +35,9 @@ _This project introduces you to a more advanced tool for creating your web appli
 
 ### Registration and Signing-in
 User can register providing an email address, a username, a last name, a first name and a password that is encrypted in the database. After the registration, an e-mail with an unique link is sent to the registered user to verify their account. The user can then connect with their username and password. They can request password reinitialization if they forget it via a unique link sent in an email to them.
+<img width="1002" alt="Screen Shot 2023-04-03 at 3 25 41 PM" src="https://user-images.githubusercontent.com/66918113/229518491-309b4cb9-0dca-4583-857c-35dd623d8326.png">
+
+<img width="2542" alt="Screen Shot 2023-04-03 at 3 52 49 PM" src="https://user-images.githubusercontent.com/66918113/229518589-0a79cb31-77ec-4367-bc82-da257da60816.png">
 
 <img width="530" alt="Screen Shot 2023-04-03 at 3 25 29 PM" src="https://user-images.githubusercontent.com/66918113/229517897-c4dc0832-13e5-4925-9add-d2e91608f889.png">
 
